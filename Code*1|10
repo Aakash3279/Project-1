@@ -1,0 +1,9 @@
+let me begin
+this is the primary github project i made into this...
+#include <stdio.h>
+int main(){
+printf("Hello World\n");
+printf("i know C language first of all\n");
+return 0;
+}
+//thats it over the primary attempt i made into this!
